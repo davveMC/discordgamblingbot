@@ -1,0 +1,2 @@
+# discordgamblingbot
+Gambling Discord Bot
